@@ -1,0 +1,60 @@
+backend:
+  name: github
+  repo: okekrr/WebStack-Hugo
+  branch: main
+  base_url: https://api.github.com
+
+media_folder: "exampleSite/static/assets/images/logos"
+public_folder: "/assets/images/logos"
+
+collections:
+  - name: "nav"
+    label: "导航管理"
+    files:
+      - name: "webstack"
+        label: "导航链接"
+        file: "exampleSite/data/webstack.yml"
+        format: "yaml"
+        fields:
+          - label: "导航分类"
+            name: "taxonomy"
+            widget: "list"
+            fields:
+              - { label: "分类名称", name: "taxonomy", widget: "string" }
+              - { label: "图标", name: "icon", widget: "string" }
+              - label: "直接链接（无子分类时使用）"
+                name: "links"
+                widget: "list"
+                required: false
+                fields:
+                  - { label: "网站名称", name: "title", widget: "string" }
+                  - { label: "Logo", name: "logo", widget: "string" }
+                  - { label: "网址", name: "url", widget: "string" }
+                  - { label: "描述", name: "description", widget: "string" }
+              - label: "子分类列表"
+                name: "list"
+                widget: "list"
+                required: false
+                fields:
+                  - { label: "子分类名", name: "term", widget: "string" }
+                  - label: "网站链接"
+                    name: "links"
+                    widget: "list"
+                    fields:
+                      - { label: "网站名称", name: "title", widget: "string" }
+                      - { label: "Logo", name: "logo", widget: "string" }
+                      - { label: "网址", name: "url", widget: "string" }
+                      - { label: "描述", name: "description", widget: "string" }
+
+      - name: "headers"
+        label: "导航栏菜单"
+        file: "exampleSite/data/headers.yml"
+        format: "yaml"
+        fields:
+          - label: "菜单项"
+            name: "item"
+            widget: "list"
+            fields:
+              - { label: "名称", name: "item", widget: "string" }
+              - { label: "图标", name: "icon", widget: "string" }
+              - { label: "链接", name: "link", widget: "string" }

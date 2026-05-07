@@ -60,6 +60,10 @@
       logo: muyuan-do.png
       url: https://muyuan.do/pricing
       description: AI 公益中转服务。
+    - title: MeowAI
+      logo: sun-meowai-net.png
+      url: https://sun.meowai.net/
+      description: AI API 中转服务。
     - title: Elysiver
       logo: www-aiapipk-com.png
       url: https://www.aiapipk.com/
@@ -173,7 +177,7 @@
       logo: uspscode-com.png
       url: https://uspscode.com/
       description: USPS 物流单号管理系统。
-  - term: 跨境电商
+  - term: B2B论坛
     links:
     - title: 外贸精英论坛
       logo: bbs-jying-cn.png
@@ -248,6 +252,14 @@
       description: 数据脉冲代理服务。
   - term: VPS 服务器
     links:
+    - title: WePC
+      logo: wepc-au.png
+      url: https://wepc.au/
+      description: TikTok 专线 VPS。
+    - title: evoxt
+      logo: console-evoxt-com.png
+      url: https://console.evoxt.com/
+      description: 全球云服务器部署。
     - title: RackNerd
       logo: www-racknerd-com.png
       url: https://www.racknerd.com/
@@ -272,10 +284,6 @@
       logo: dash-lazycat-wiki.png
       url: https://dash.lazycat.wiki/
       description: 懒猫云服务。
-    - title: WePC
-      logo: wepc-au.png
-      url: https://wepc.au/
-      description: TikTok 专线 VPS。
     - title: Lisa
       logo: lisahost-com.png
       url: https://lisahost.com/
@@ -284,10 +292,6 @@
       logo: console-kaopuyun-com.png
       url: https://console.kaopuyun.com/
       description: 中东地区云服务器。
-    - title: evoxt
-      logo: console-evoxt-com.png
-      url: https://console.evoxt.com/
-      description: 全球云服务器部署。
     - title: Terabix
       logo: clients-terabix-net.png
       url: https://clients.terabix.net/

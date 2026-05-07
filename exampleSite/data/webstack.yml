@@ -109,6 +109,80 @@
       logo: tools-pingdom-com.png
       url: https://tools.pingdom.com/
       description: 测试网页打开速度。
+  - term: 营销推广
+    links:
+    - title: Facebook Business
+      logo: www-facebook-com.png
+      url: https://www.facebook.com/business/help
+      description: Facebook 广告帮助中心。
+    - title: Promo
+      logo: promo-com.png
+      url: https://promo.com/
+      description: 制作 Facebook 视频广告。
+    - title: AdvertCN
+      logo: www-advertcn-com.png
+      url: https://www.advertcn.com/
+      description: 广告中国论坛。
+    - title: 牛津小马哥
+      logo: xmgseo-com.png
+      url: https://xmgseo.com/category/facebook/
+      description: Facebook 广告投放教程。
+    - title: VeryFB
+      logo: veryfb-com.png
+      url: https://veryfb.com/
+      description: Facebook 广告投放社区。
+  - term: 账号服务
+    links:
+    - title: AccsMarket
+      logo: accsmarket-com.png
+      url: https://accsmarket.com/
+      description: 社交媒体账号交易平台。
+    - title: PlayerUp
+      logo: www-playerup-com.png
+      url: https://www.playerup.com/
+      description: 全球数字账号交易平台。
+    - title: Fameswap
+      logo: fameswap-com.png
+      url: https://fameswap.com/
+      description: Instagram 账号购买。
+    - title: edu 邮箱购买
+      logo: edumail-vip.png
+      url: https://edumail.vip/
+      description: edu 教育邮箱申请注册。
+    - title: 淘号么
+      logo: taohao-me.png
+      url: https://taohao.me/
+      description: Google Voice 账号购买平台。
+    - title: 天空发卡
+      logo: zfk-skygv-com.png
+      url: https://zfk.skygv.com/
+      description: GV 永久号购买。
+    - title: USGV
+      logo: fk-usgv-online.png
+      url: https://fk.usgv.online/
+      description: Google Voice 美国实卡。
+    - title: 紫鸟小店
+      logo: faka-533133-xyz.png
+      url: https://faka.533133.xyz/
+      description: GV 号码购买。
+    - title: Bitrefill
+      logo: www-bitrefill-com.png
+      url: https://www.bitrefill.com/
+      description: 加密货币购买礼品卡和话费。
+    - title: USPS 单号管理
+      logo: uspscode-com.png
+      url: https://uspscode.com/
+      description: USPS 物流单号管理系统。
+  - term: 跨境电商
+    links:
+    - title: 外贸精英论坛
+      logo: bbs-jying-cn.png
+      url: http://bbs.jying.cn/
+      description: 专业关务交流社区。
+    - title: 跨国外贸论坛
+      logo: bbs-globalimporter-net.png
+      url: http://bbs.globalimporter.net/
+      description: 跨国贸易交流论坛。
 - taxonomy: 云服务
   icon: fas fa-cloud fa-lg
   list:
@@ -258,80 +332,6 @@
       logo: ipinfo-io.png
       url: https://ipinfo.io/
       description: IP 数据查询。
-  - term: 账号服务
-    links:
-    - title: AccsMarket
-      logo: accsmarket-com.png
-      url: https://accsmarket.com/
-      description: 社交媒体账号交易平台。
-    - title: PlayerUp
-      logo: www-playerup-com.png
-      url: https://www.playerup.com/
-      description: 全球数字账号交易平台。
-    - title: Fameswap
-      logo: fameswap-com.png
-      url: https://fameswap.com/
-      description: Instagram 账号购买。
-    - title: edu 邮箱购买
-      logo: edumail-vip.png
-      url: https://edumail.vip/
-      description: edu 教育邮箱申请注册。
-    - title: 淘号么
-      logo: taohao-me.png
-      url: https://taohao.me/
-      description: Google Voice 账号购买平台。
-    - title: 天空发卡
-      logo: zfk-skygv-com.png
-      url: https://zfk.skygv.com/
-      description: GV 永久号购买。
-    - title: USGV
-      logo: fk-usgv-online.png
-      url: https://fk.usgv.online/
-      description: Google Voice 美国实卡。
-    - title: 紫鸟小店
-      logo: faka-533133-xyz.png
-      url: https://faka.533133.xyz/
-      description: GV 号码购买。
-    - title: Bitrefill
-      logo: www-bitrefill-com.png
-      url: https://www.bitrefill.com/
-      description: 加密货币购买礼品卡和话费。
-  - term: B2B 外贸
-    links:
-    - title: 外贸精英论坛
-      logo: bbs-jying-cn.png
-      url: http://bbs.jying.cn/
-      description: 专业关务交流社区。
-    - title: 跨国外贸论坛
-      logo: bbs-globalimporter-net.png
-      url: http://bbs.globalimporter.net/
-      description: 跨国贸易交流论坛。
-    - title: USPS 单号管理
-      logo: uspscode-com.png
-      url: https://uspscode.com/
-      description: USPS 物流单号管理系统。
-  - term: FB 广告
-    links:
-    - title: Facebook Business
-      logo: www-facebook-com.png
-      url: https://www.facebook.com/business/help
-      description: Facebook 广告帮助中心。
-    - title: Promo
-      logo: promo-com.png
-      url: https://promo.com/
-      description: 制作 Facebook 视频广告。
-    - title: AdvertCN
-      logo: www-advertcn-com.png
-      url: https://www.advertcn.com/
-      description: 广告中国论坛。
-    - title: 牛津小马哥
-      logo: xmgseo-com.png
-      url: https://xmgseo.com/category/facebook/
-      description: Facebook 广告投放教程。
-    - title: VeryFB
-      logo: veryfb-com.png
-      url: https://veryfb.com/
-      description: Facebook 广告投放社区。
 - taxonomy: 加密货币
   icon: fab fa-bitcoin fa-lg
   list:

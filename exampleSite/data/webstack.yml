@@ -142,7 +142,7 @@
       logo: xmgseo-com.png
       url: https://xmgseo.com/category/facebook/
       description: Facebook 广告投放教程。
-  - term: 社媒账号
+  - term: 账号服务
     links:
     - title: AccsMarket
       logo: accsmarket-com.png
@@ -156,6 +156,22 @@
       logo: fameswap-com.png
       url: https://fameswap.com/
       description: Instagram 账号购买。
+    - title: 淘号么
+      logo: taohao-me.png
+      url: https://taohao.me/
+      description: Google Voice 账号购买平台。
+    - title: 天空发卡
+      logo: zfk-skygv-com.png
+      url: https://zfk.skygv.com/
+      description: GV 永久号购买。
+    - title: USGV
+      logo: ''
+      url: https://fk.usgv.online/
+      description: Google Voice 美国实卡。
+    - title: 紫鸟小店
+      logo: ''
+      url: https://faka.533133.xyz/
+      description: GV 号码购买。
   - term: B2B 外贸
     links:
     - title: 外贸精英论坛
@@ -173,6 +189,66 @@
 - taxonomy: 云服务
   icon: fas fa-cloud fa-lg
   list:
+  - term: 机场
+    links:
+    - title: 飓风Cloud
+      logo: ''
+      url: https://www.hurricanerelay.net/
+      description: 飓风云。
+    - title: 极速机场
+      logo: ''
+      url: https://xn--mes358acgm99l.com/
+      description: 极速节点。
+    - title: 良心云机场
+      logo: xn--9kqq37frnz-com.png
+      url: https://xn--9kqz23b19z.com/
+      description: 良心云机场。
+    - title: 7li7li
+      logo: ''
+      url: https://s.7li7li.com/
+      description: 7li7li 机场。
+    - title: 宝可梦加速器
+      logo: web2-52pokemon-cc.png
+      url: https://web2.52pokemon.cc/
+      description: 宝可梦加速器。
+    - title: 自由猫
+      logo: ''
+      url: http://自由猫.com/
+      description: 自由猫机场。
+    - title: 流量光
+      logo: llg01-com.png
+      url: https://llg01.com/
+      description: 流量光机场。
+    - title: 泡泡Dog
+      logo: www-paopao-dog.png
+      url: https://www.paopao.dog/
+      description: 泡泡 Dog 机场。
+    - title: 顶级机场
+      logo: ''
+      url: https://xn--mes358a9urctx.com/
+      description: 顶级机场。
+    - title: 三分云
+      logo: ''
+      url: https://xn--4gqx1hgtfdmt.com/
+      description: 三分云机场。
+  - term: 代理 IP
+    links:
+    - title: Oxylabs
+      logo: ''
+      url: https://dashboard.oxylabs.io/
+      description: 高级住宅代理服务。
+    - title: Webshare
+      logo: dashboard-webshare-io.png
+      url: https://dashboard.webshare.io/
+      description: 家宽代理服务。
+    - title: Cliproxy
+      logo: cliproxy-com.png
+      url: https://cliproxy.com/zh/
+      description: 快速住宅代理。
+    - title: DataImpulse
+      logo: app-dataimpulse-com.png
+      url: https://app.dataimpulse.com/
+      description: 数据脉冲代理服务。
   - term: VPS 服务器
     links:
     - title: RackNerd
@@ -227,66 +303,6 @@
       logo: www-surfercloud-com.png
       url: https://www.surfercloud.com/
       description: 全球云服务商。
-  - term: 代理 IP
-    links:
-    - title: Oxylabs
-      logo: ''
-      url: https://dashboard.oxylabs.io/
-      description: 高级住宅代理服务。
-    - title: Webshare
-      logo: dashboard-webshare-io.png
-      url: https://dashboard.webshare.io/
-      description: 家宽代理服务。
-    - title: Cliproxy
-      logo: cliproxy-com.png
-      url: https://cliproxy.com/zh/
-      description: 快速住宅代理。
-    - title: DataImpulse
-      logo: app-dataimpulse-com.png
-      url: https://app.dataimpulse.com/
-      description: 数据脉冲代理服务。
-  - term: 机场
-    links:
-    - title: 飓风Cloud
-      logo: ''
-      url: https://www.hurricanerelay.net/
-      description: 飓风云。
-    - title: 极速机场
-      logo: ''
-      url: https://xn--mes358acgm99l.com/
-      description: 极速节点。
-    - title: 良心云机场
-      logo: xn--9kqq37frnz-com.png
-      url: https://xn--9kqz23b19z.com/
-      description: 良心云机场。
-    - title: 7li7li
-      logo: ''
-      url: https://s.7li7li.com/
-      description: 7li7li 机场。
-    - title: 宝可梦加速器
-      logo: web2-52pokemon-cc.png
-      url: https://web2.52pokemon.cc/
-      description: 宝可梦加速器。
-    - title: 流量光
-      logo: llg01-com.png
-      url: https://llg01.com/
-      description: 流量光机场。
-    - title: 泡泡Dog
-      logo: www-paopao-dog.png
-      url: https://www.paopao.dog/
-      description: 泡泡 Dog 机场。
-    - title: 顶级机场
-      logo: ''
-      url: https://xn--mes358a9urctx.com/
-      description: 顶级机场。
-    - title: 三分云
-      logo: ''
-      url: https://xn--4gqx1hgtfdmt.com/
-      description: 三分云机场。
-    - title: 自由猫
-      logo: ''
-      url: http://自由猫.com/
-      description: 自由猫机场。
   - term: VPS 测评
     links:
     - title: DigVPS
@@ -451,16 +467,6 @@
 - taxonomy: 生活工具
   icon: fas fa-wrench fa-lg
   list:
-  - term: 效率工具
-    links:
-    - title: 超级简历
-      logo: www-wondercv-com.png
-      url: https://www.wondercv.com/
-      description: HR 推荐简历模板，智能简历制作。
-    - title: 数字图书馆
-      logo: ''
-      url: https://zh.u1lib.org/
-      description: 搜索书籍，免费下载。
   - term: 转运购物
     links:
     - title: Tiptrans
@@ -489,24 +495,6 @@
       logo: www-x9pc-com.png
       url: http://www.x9pc.com/firmware/boot/a01/
       description: Breed 下刷固件教程。
-  - term: Google Voice
-    links:
-    - title: 淘号么
-      logo: taohao-me.png
-      url: https://taohao.me/
-      description: Google Voice 账号购买平台。
-    - title: 天空发卡
-      logo: zfk-skygv-com.png
-      url: https://zfk.skygv.com/
-      description: GV 永久号购买。
-    - title: USGV
-      logo: ''
-      url: https://fk.usgv.online/
-      description: Google Voice 美国实卡。
-    - title: 紫鸟小店
-      logo: ''
-      url: https://faka.533133.xyz/
-      description: GV 号码购买。
   - term: 通讯工具
     links:
     - title: LINUX DO Mail

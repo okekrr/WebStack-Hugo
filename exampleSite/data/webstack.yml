@@ -48,6 +48,22 @@
       logo: ''
       url: https://ai.121628.xyz/console/playground
       description: AI 公益平台。
+    - title: Zhoumo API
+      logo: ''
+      url: https://zapi.aicc0.com/console/playground
+      description: AI API 中转服务。
+    - title: abrdns
+      logo: ''
+      url: https://new-api.abrdns.com/console/personal
+      description: AI API 中转管理。
+    - title: 君の公益
+      logo: muyuan-do.png
+      url: https://muyuan.do/pricing
+      description: AI 公益中转服务。
+    - title: Elysiver
+      logo: ''
+      url: https://elysiver.h-e.top/
+      description: AI API 中转服务。
     - title: 冰のCodex
       logo: ''
       url: https://icoe.pp.ua/home
@@ -56,18 +72,6 @@
       logo: anyrouter-top.png
       url: https://anyrouter.top/console/topup
       description: AI API 路由中转。
-    - title: Zhoumo API
-      logo: ''
-      url: https://zapi.aicc0.com/console/playground
-      description: AI API 中转服务。
-    - title: New API
-      logo: ''
-      url: https://new-api.abrdns.com/console/personal
-      description: AI API 中转管理。
-    - title: 君の公益
-      logo: muyuan-do.png
-      url: https://muyuan.do/pricing
-      description: AI 公益中转服务。
     - title: 中转站竞技场
       logo: www-aiapipk-com.png
       url: https://www.aiapipk.com/
@@ -124,24 +128,6 @@
 - taxonomy: 跨境出海
   icon: fas fa-ship fa-lg
   list:
-  - term: FB 广告
-    links:
-    - title: Facebook Business
-      logo: www-facebook-com.png
-      url: https://www.facebook.com/business/help
-      description: Facebook 广告帮助中心。
-    - title: Promo
-      logo: promo-com.png
-      url: https://promo.com/
-      description: 制作 Facebook 视频广告。
-    - title: AdvertCN
-      logo: www-advertcn-com.png
-      url: https://www.advertcn.com/
-      description: 广告中国论坛。
-    - title: 牛津小马哥
-      logo: xmgseo-com.png
-      url: https://xmgseo.com/category/facebook/
-      description: Facebook 广告投放教程。
   - term: 账号服务
     links:
     - title: AccsMarket
@@ -186,6 +172,28 @@
       logo: ''
       url: https://uspscode.com/
       description: USPS 物流单号管理系统。
+  - term: FB 广告
+    links:
+    - title: Facebook Business
+      logo: www-facebook-com.png
+      url: https://www.facebook.com/business/help
+      description: Facebook 广告帮助中心。
+    - title: Promo
+      logo: promo-com.png
+      url: https://promo.com/
+      description: 制作 Facebook 视频广告。
+    - title: AdvertCN
+      logo: www-advertcn-com.png
+      url: https://www.advertcn.com/
+      description: 广告中国论坛。
+    - title: 牛津小马哥
+      logo: xmgseo-com.png
+      url: https://xmgseo.com/category/facebook/
+      description: Facebook 广告投放教程。
+    - title: VeryFB
+      logo: ''
+      url: https://veryfb.com/
+      description: Facebook 广告投放社区。
 - taxonomy: 云服务
   icon: fas fa-cloud fa-lg
   list:

@@ -121,16 +121,6 @@
       logo: tools-pingdom-com.png
       url: https://tools.pingdom.com/
       description: 测试网页打开速度。
-  - term: 网站工具
-    links:
-    - title: UptimeRobot
-      logo: dashboard-uptimerobot-com.png
-      url: https://dashboard.uptimerobot.com/monitors
-      description: 网站监控，检测网站是否正常。
-    - title: Adobe 全家桶
-      logo: ''
-      url: https://www.yuque.com/docs/share/5947e43b-0960-45eb-9fe1-99a3d469a78d
-      description: Adobe 软件安装教程。
 - taxonomy: 跨境出海
   icon: fas fa-ship fa-lg
   list:
@@ -309,6 +299,24 @@
       logo: ''
       url: https://www.duyaoss.com/
       description: 机场测速和简介。
+  - term: 网站工具
+    links:
+    - title: UptimeRobot
+      logo: dashboard-uptimerobot-com.png
+      url: https://dashboard.uptimerobot.com/monitors
+      description: 网站监控，检测网站是否正常。
+    - title: Adobe 全家桶
+      logo: ''
+      url: https://www.yuque.com/docs/share/5947e43b-0960-45eb-9fe1-99a3d469a78d
+      description: Adobe 软件安装教程。
+    - title: IP 欺诈检测
+      logo: scamalytics-com.png
+      url: https://scamalytics.com/ip
+      description: IP 地址欺诈检测。
+    - title: IPinfo
+      logo: ipinfo-io.png
+      url: https://ipinfo.io/
+      description: IP 数据查询。
 - taxonomy: 加密货币
   icon: fab fa-bitcoin fa-lg
   list:
@@ -387,6 +395,10 @@
       logo: www-seedhub-cc.png
       url: https://www.seedhub.cc/
       description: 影视动漫分享。
+    - title: 不Tai灵
+      logo: www-butailing-com.png
+      url: https://www.butailing.com/
+      description: BT 资源搜索。
   - term: 图片素材
     links:
     - title: Pexels
@@ -447,14 +459,6 @@
       logo: ''
       url: https://zh.u1lib.org/
       description: 搜索书籍，免费下载。
-    - title: IP 欺诈检测
-      logo: scamalytics-com.png
-      url: https://scamalytics.com/ip
-      description: IP 地址欺诈检测。
-    - title: IPinfo
-      logo: ipinfo-io.png
-      url: https://ipinfo.io/
-      description: IP 数据查询。
   - term: 转运购物
     links:
     - title: Tiptrans

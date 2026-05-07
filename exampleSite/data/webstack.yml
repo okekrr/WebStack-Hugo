@@ -42,20 +42,16 @@
       logo: notebooklm-google-com.png
       url: https://notebooklm.google.com/
       description: Google AI 笔记研究工具。
+  - term: API 中转
+    links:
     - title: 霸气公益
       logo: ''
       url: https://ai.121628.xyz/console/playground
       description: AI 公益平台。
-  - term: API 中转
-    links:
-    - title: 中转站竞技场
-      logo: www-aiapipk-com.png
-      url: https://www.aiapipk.com/
-      description: AI 接口中转站性价比对比。
-    - title: AICodeMirror
-      logo: www-aicodemirror-com.png
-      url: https://www.aicodemirror.com/dashboard
-      description: 中国用户专属 AI 编程助手。
+    - title: 冰のCodex
+      logo: ''
+      url: https://icoe.pp.ua/home
+      description: AI API 中转服务。
     - title: Any Router
       logo: anyrouter-top.png
       url: https://anyrouter.top/console/topup
@@ -72,6 +68,14 @@
       logo: muyuan-do.png
       url: https://muyuan.do/pricing
       description: AI 公益中转服务。
+    - title: 中转站竞技场
+      logo: www-aiapipk-com.png
+      url: https://www.aiapipk.com/
+      description: AI 接口中转站性价比对比。
+    - title: AICodeMirror
+      logo: www-aicodemirror-com.png
+      url: https://www.aicodemirror.com/dashboard
+      description: 中国用户专属 AI 编程助手。
 - taxonomy: 建站运营
   icon: fas fa-globe fa-lg
   list:

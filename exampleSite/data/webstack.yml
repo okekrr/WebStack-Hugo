@@ -61,22 +61,6 @@
       url: https://muyuan.do/pricing
       description: AI 公益中转服务。
     - title: Elysiver
-      logo: elysiver-h-e-top.png
-      url: https://elysiver.h-e.top/
-      description: AI API 中转服务。
-    - title: MeowAI
-      logo: sun-meowai-net.png
-      url: https://sun.meowai.net/
-      description: AI API 中转服务。
-    - title: 冰のCodex
-      logo: icoe-pp-ua.png
-      url: https://icoe.pp.ua/home
-      description: AI API 中转服务。
-    - title: Any Router
-      logo: anyrouter-top.png
-      url: https://anyrouter.top/console/topup
-      description: AI API 路由中转。
-    - title: 中转站竞技场
       logo: www-aiapipk-com.png
       url: https://www.aiapipk.com/
       description: AI 接口中转站性价比对比。
@@ -84,8 +68,8 @@
       logo: www-aicodemirror-com.png
       url: https://www.aicodemirror.com/dashboard
       description: 中国用户专属 AI 编程助手。
-- taxonomy: 建站运营
-  icon: fas fa-globe fa-lg
+- taxonomy: 云服务
+  icon: fas fa-cloud fa-lg
   list:
   - term: 域名主机
     links:
@@ -125,9 +109,6 @@
       logo: tools-pingdom-com.png
       url: https://tools.pingdom.com/
       description: 测试网页打开速度。
-- taxonomy: 云服务
-  icon: fas fa-cloud fa-lg
-  list:
   - term: 机场
     links:
     - title: 飓风Cloud
@@ -405,10 +386,6 @@
       logo: pump-fun.png
       url: https://pump.fun/
       description: Solana 代币发射平台。
-    - title: 哈世链闻
-      logo: hashnews-pro.png
-      url: https://hashnews.pro/
-      description: 区块链快讯新闻。
 - taxonomy: 影音素材
   icon: fas fa-film fa-lg
   list:

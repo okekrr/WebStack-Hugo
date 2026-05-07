@@ -68,8 +68,8 @@
       logo: www-aicodemirror-com.png
       url: https://www.aicodemirror.com/dashboard
       description: 中国用户专属 AI 编程助手。
-- taxonomy: 云服务
-  icon: fas fa-cloud fa-lg
+- taxonomy: 建站运营
+  icon: fas fa-globe fa-lg
   list:
   - term: 域名主机
     links:
@@ -109,6 +109,9 @@
       logo: tools-pingdom-com.png
       url: https://tools.pingdom.com/
       description: 测试网页打开速度。
+- taxonomy: 云服务
+  icon: fas fa-cloud fa-lg
+  list:
   - term: 机场
     links:
     - title: 飓风Cloud

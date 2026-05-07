@@ -1,33 +1,35 @@
 ---
-title: "关于网站"
-date: 2020-07-28T19:27:08+08:00
+title: "关于我"
+date: 2024-03-21T15:39:26+08:00
 draft: false
 ---
 
-#### 这是 Hugo 版 WebStack 主题
+#### 个人简介
 
-本项目是基于**纯静态**的网址导航网站 [webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io) 制作的 [Hugo](https://gohugo.io/) 主题，其中部分代码参考了以下几个开源项目：<br/><br/>
+这个blog名字来源于大二注册的LOL韩服的ID，之后一直就按照这个作为邮箱账号、ID账号等等。籍贯广东，现广州工作。在而立之年开始，创建这个博客，记录我从一个跨境电商从业者到建站再到社媒广告投放的变化历程。
 
-- [https://github.com/liutongxu/liutongxu.github.io](https://github.com/liutongxu/liutongxu.github.io)
-- [https://github.com/iplaycode/webstack-hugo](https://github.com/iplaycode/webstack-hugo)
+---
 
-<br/>
+#### 兴趣爱好
 
-主题安装后，将 exampleSite 目录下的文件复制到 hugo 站点根目录，根据需要把 config.toml 的一些信息改成自己的，导航的网址信息可通过 data 目录下 webstack.yml 修改。
+**游戏**
 
-这是一个开源的公益项目，你可以拿来制作自己的网址导航，也可以做与导航无关的网站。
+沉迷英雄联盟10年（沉迷大乱斗超过7年）；热衷RPG游戏（侠盗飞车系列、鬼泣系列）；爱好赛车类游戏（极品飞车系列、马里奥赛车8）。
 
-WebStack 有非常多的魔改版本，这是其中一个。如果你对本主题进行了一些个性化调整，欢迎来本项目中 issue 分享一下！
+**生活**
 
-<br/>
+坚持每天早上做30mins拉伸运动+每日增加一个俯卧撑；每周一次清洁屋子卫生；坚持每天阅读20mins。
 
-#### 主题开源地址
+**工作**
 
-[https://github.com/shenweiyan/webstack-hugo](https://github.com/shenweiyan/webstack-hugo)
+在一家外贸公司担任网站运营、建站和网站维护、Google SEM、FB ADS推广、网络运维等工作。
 
-<br/>
+**个人**
 
-#### 主题演示地址
+对一切有助于提高工作效率和养成好习惯的工具感兴趣，喜欢倒腾各种奇怪但饶有趣味的软件。喜欢关注前沿的IT科技、新能源汽车、科技公司等消息动向。
 
-- [https://nav.bioitee.com](https://nav.bioitee.com)
-- [https://shenweiyan.github.io/webstack-hugo](https://shenweiyan.github.io/webstack-hugo)
+---
+
+#### 我的博客
+
+[https://okekrr.com](https://okekrr.com)

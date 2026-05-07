@@ -5,26 +5,10 @@
     logo: google.png
     url: https://www.google.com/
     description: 全球最大的搜索引擎。
-  - title: Gmail
-    logo: gmail.png
-    url: https://mail.google.com/
-    description: Google 邮箱服务。
-  - title: GitHub
-    logo: github.png
-    url: https://github.com/
-    description: 全球最大的代码托管平台。
-  - title: DeepSeek
-    logo: chat-deepseek-com.png
-    url: https://chat.deepseek.com/
-    description: DeepSeek AI 对话助手。
   - title: ChatGPT
     logo: chatgpt.png
     url: https://chat.openai.com/
     description: OpenAI 的 AI 对话助手。
-  - title: YouTube
-    logo: youtube.png
-    url: https://www.youtube.com/
-    description: 全球最大的视频分享平台。
 - taxonomy: AI 工具
   icon: fas fa-robot fa-lg
   list:
@@ -46,10 +30,6 @@
       logo: gemini-google-com.png
       url: https://gemini.google.com/
       description: Google 的 AI 助手。
-    - title: NeatChat
-      logo: ''
-      url: https://chat.closeai.im/
-      description: ChatGPT 镜像站。
     - title: 霸气公益
       logo: ''
       url: https://ai.121628.xyz/console/playground
@@ -94,20 +74,6 @@
       logo: muyuan-do.png
       url: https://muyuan.do/pricing
       description: AI 公益中转服务。
-    - title: AI for free
-      logo: ''
-      url: https://api.jimsblog.us.kg/
-      description: 免费 AI API 服务。
-  - term: AI 图像
-    links:
-    - title: Nano Banana
-      logo: ''
-      url: https://picart.vip/
-      description: AI 图像生成器。
-    - title: 像素风
-      logo: pixel-me-tokyo.png
-      url: https://pixel-me.tokyo/en/
-      description: 像素风格头像生成。
 - taxonomy: 建站运营
   icon: fas fa-globe fa-lg
   list:
@@ -121,10 +87,6 @@
       logo: www-siteground-com.png
       url: https://www.siteground.com/
       description: WordPress 优质主机。
-    - title: CloudLeft
-      logo: ''
-      url: https://www.cloudleft.com/
-      description: 海外服务器提供商。
     - title: Query.Domains
       logo: query-domains.png
       url: https://query.domains/zh-hans
@@ -135,10 +97,6 @@
       description: 搜索未注册的域名。
   - term: WordPress
     links:
-    - title: FreeWPlugin
-      logo: ''
-      url: https://www.freewplugin.com/
-      description: WordPress 付费插件免费下载。
     - title: weadown
       logo: weadown-com.png
       url: https://weadown.com/
@@ -161,20 +119,6 @@
       logo: tools-pingdom-com.png
       url: https://tools.pingdom.com/
       description: 测试网页打开速度。
-  - term: Shopify
-    links:
-    - title: Shopify 主题购买
-      logo: ecom-flyingstartonline-com.png
-      url: https://ecom.flyingstartonline.com/theme
-      description: Shopify 主题商店。
-    - title: 17DTC
-      logo: 17dtc-com.png
-      url: https://17dtc.com/favorites/changyonggongju
-      description: DTC 品牌出海导航站。
-    - title: 众网工作室
-      logo: www-zwebs-cn.png
-      url: https://www.zwebs.cn/
-      description: 外贸网站建设一条龙服务。
   - term: 网站工具
     links:
     - title: UptimeRobot
@@ -218,10 +162,6 @@
       logo: www-surfercloud-com.png
       url: https://www.surfercloud.com/
       description: 全球云服务商。
-    - title: 亚洲云
-      logo: www-asiayun-com.png
-      url: https://www.asiayun.com/
-      description: 亚洲地区云服务。
   - term: FB 广告
     links:
     - title: Facebook Business
@@ -353,10 +293,6 @@
       logo: ''
       url: https://feiniaoyun.xyz/
       description: 飞鸟云机场。
-    - title: 扑克云
-      logo: ''
-      url: https://pky999.top/
-      description: 扑克云机场。
     - title: Cherry VPN
       logo: cherryvpn-net.png
       url: https://cherryvpn.net/
@@ -487,10 +423,6 @@
       logo: www-seedhub-cc.png
       url: https://www.seedhub.cc/
       description: 影视动漫分享。
-    - title: 布谷TV
-      logo: www-bugutv-cn.png
-      url: https://www.bugutv.cn/
-      description: 4K 电影蓝光原盘下载。
   - term: 图片素材
     links:
     - title: Pexels
@@ -538,10 +470,6 @@
       logo: download-cnet-com.png
       url: https://download.cnet.com/
       description: 安全软件下载站。
-    - title: InjectLib
-      logo: ''
-      url: https://qiuchenlyopensource.github.io/
-      description: 秋城落叶软件注入库。
 - taxonomy: 生活工具
   icon: fas fa-wrench fa-lg
   list:
@@ -569,10 +497,6 @@
       logo: www-tiptrans-com.png
       url: https://www.tiptrans.com/
       description: 欧洲转运服务。
-    - title: Apple ID
-      logo: ''
-      url: https://id.istore.app/
-      description: Apple ID 相关工具。
     - title: Bitrefill
       logo: www-bitrefill-com.png
       url: https://www.bitrefill.com/
@@ -595,20 +519,6 @@
       logo: www-x9pc-com.png
       url: http://www.x9pc.com/firmware/boot/a01/
       description: Breed 下刷固件教程。
-  - term: NAS
-    links:
-    - title: Synology
-      logo: ''
-      url: https://okekrr.quickconnect.cn/
-      description: 群晖 NAS 登录。
-    - title: Emby
-      logo: ''
-      url: http://sunwm.myds.me:8096/
-      description: Emby 影视媒体服务器。
-    - title: 量子互联
-      logo: console-uulap-com.png
-      url: https://console.uulap.com/
-      description: 量子互联控制台。
   - term: Google Voice
     links:
     - title: 淘号么
@@ -633,7 +543,7 @@
       logo: webmail-linux-do.png
       url: https://webmail.linux.do/
       description: Linux.do 社区邮箱。
-    - title: Okekrr Zone
+    - title: Okekrr Mail
       logo: ''
-      url: https://okekrr.shwgij.com:60014/
-      description: 个人网盘登录。
+      url: https://mail.okekrr.com/
+      description: 个人邮箱。

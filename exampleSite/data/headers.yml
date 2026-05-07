@@ -1,3 +1,6 @@
+- item: Google
+  icon: fa fa-google
+  link: https://www.google.com/
 - item: 首页
   icon: fa fa-home
   link: "./"

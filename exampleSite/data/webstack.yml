@@ -1,14 +1,6 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links:
-  - title: Google
-    logo: google.png
-    url: https://www.google.com/
-    description: 全球最大的搜索引擎。
-  - title: ChatGPT
-    logo: chatgpt.png
-    url: https://chat.openai.com/
-    description: OpenAI 的 AI 对话助手。
   - title: 哪吒探针
     logo: ''
     url: https://nezha.19980717.xyz/
@@ -38,12 +30,6 @@
       logo: gemini-google-com.png
       url: https://gemini.google.com/
       description: Google 的 AI 助手。
-    - title: 霸气公益
-      logo: ''
-      url: https://ai.121628.xyz/console/playground
-      description: AI 公益平台。
-  - term: AI 搜索
-    links:
     - title: Perplexity
       logo: www-perplexity-ai.png
       url: https://www.perplexity.ai/
@@ -56,6 +42,10 @@
       logo: notebooklm-google-com.png
       url: https://notebooklm.google.com/
       description: Google AI 笔记研究工具。
+    - title: 霸气公益
+      logo: ''
+      url: https://ai.121628.xyz/console/playground
+      description: AI 公益平台。
   - term: API 中转
     links:
     - title: 中转站竞技场

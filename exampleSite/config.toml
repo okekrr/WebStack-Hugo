@@ -33,13 +33,13 @@ publishDir            = "public"
     key = ""
 
 [params.images]
-    favicon           = "assets/images/bi-favicon.png"
-    searchImageL      = "assets/images/bg-dna.jpg"
-    searchImageD      = "assets/images/bg-dna.jpg"
-    logoExpandLight   = "assets/images/bi-expand-dark.png"
-    logoExpandDark    = "assets/images/bi-expand-light.png"
-    logoCollapseLight = "assets/images/bi.png"
-    logoCollapseDark  = "assets/images/bi.png"
+    favicon           = "assets/images/favicon.png"
+    searchImageL      = "assets/images/bg-search.png"
+    searchImageD      = "assets/images/bg-search.png"
+    logoExpandLight   = "assets/images/logo-expand.png"
+    logoExpandDark    = "assets/images/logo-expand.png"
+    logoCollapseLight = "assets/images/logo-collapse.png"
+    logoCollapseDark  = "assets/images/logo-collapse.png"
 
 [markup.goldmark.renderer]
     unsafe = true

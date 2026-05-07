@@ -64,6 +64,10 @@
       logo: ''
       url: https://elysiver.h-e.top/
       description: AI API 中转服务。
+    - title: MeowAI
+      logo: ''
+      url: https://sun.meowai.net/
+      description: AI API 中转服务。
     - title: 冰のCodex
       logo: ''
       url: https://icoe.pp.ua/home
@@ -101,7 +105,7 @@
       logo: leandomainsearch-com.png
       url: https://leandomainsearch.com/
       description: 搜索未注册的域名。
-  - term: WordPress
+  - term: WordPress 资源
     links:
     - title: weadown
       logo: weadown-com.png
@@ -111,10 +115,6 @@
       logo: www-gplastra-com.png
       url: https://www.gplastra.com/elementor-pro/
       description: Elementor Pro 免费下载。
-    - title: edu 邮箱购买
-      logo: edumail-vip.png
-      url: https://edumail.vip/
-      description: edu 教育邮箱申请注册。
   - term: SEO 工具
     links:
     - title: SEOKeyword
@@ -142,6 +142,10 @@
       logo: fameswap-com.png
       url: https://fameswap.com/
       description: Instagram 账号购买。
+    - title: edu 邮箱购买
+      logo: edumail-vip.png
+      url: https://edumail.vip/
+      description: edu 教育邮箱申请注册。
     - title: 淘号么
       logo: taohao-me.png
       url: https://taohao.me/
@@ -158,6 +162,10 @@
       logo: ''
       url: https://faka.533133.xyz/
       description: GV 号码购买。
+    - title: Bitrefill
+      logo: www-bitrefill-com.png
+      url: https://www.bitrefill.com/
+      description: 加密货币购买礼品卡和话费。
   - term: B2B 外贸
     links:
     - title: 外贸精英论坛
@@ -400,10 +408,6 @@
       logo: pump-fun.png
       url: https://pump.fun/
       description: Solana 代币发射平台。
-    - title: Bitrefill
-      logo: www-bitrefill-com.png
-      url: https://www.bitrefill.com/
-      description: 加密货币购买礼品卡。
     - title: 哈世链闻
       logo: ''
       url: https://hashnews.pro/
@@ -475,16 +479,6 @@
 - taxonomy: 生活工具
   icon: fas fa-wrench fa-lg
   list:
-  - term: 转运购物
-    links:
-    - title: Tiptrans
-      logo: www-tiptrans-com.png
-      url: https://www.tiptrans.com/
-      description: 欧洲转运服务。
-    - title: Bitrefill
-      logo: www-bitrefill-com.png
-      url: https://www.bitrefill.com/
-      description: 加密货币购买礼品卡和话费。
   - term: 路由器
     links:
     - title: 梅林改版

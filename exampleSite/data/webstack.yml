@@ -255,6 +255,18 @@
       logo: ''
       url: https://xn--mes358acgm99l.com/
       description: 极速节点。
+    - title: 良心云机场
+      logo: xn--9kqq37frnz-com.png
+      url: https://xn--9kqz23b19z.com/
+      description: 良心云机场。
+    - title: 7li7li
+      logo: ''
+      url: https://s.7li7li.com/
+      description: 7li7li 机场。
+    - title: 宝可梦加速器
+      logo: web2-52pokemon-cc.png
+      url: https://web2.52pokemon.cc/
+      description: 宝可梦加速器。
     - title: 流量光
       logo: llg01-com.png
       url: https://llg01.com/
@@ -263,26 +275,18 @@
       logo: www-paopao-dog.png
       url: https://www.paopao.dog/
       description: 泡泡 Dog 机场。
-    - title: 宝可梦加速器
-      logo: web2-52pokemon-cc.png
-      url: https://web2.52pokemon.cc/
-      description: 宝可梦加速器。
-    - title: 七里七
-      logo: ''
-      url: https://s.7li7li.com/
-      description: 七里七机场。
-    - title: 极速云
+    - title: 顶级机场
       logo: ''
       url: https://xn--mes358a9urctx.com/
-      description: 极速云机场。
+      description: 顶级机场。
     - title: 三分云
       logo: ''
       url: https://xn--4gqx1hgtfdmt.com/
       description: 三分云机场。
-    - title: 雨燕
-      logo: xn--9kqq37frnz-com.png
-      url: https://xn--9kqz23b19z.com/
-      description: 雨燕机场。
+    - title: 自由猫
+      logo: ''
+      url: http://自由猫.com/
+      description: 自由猫机场。
   - term: VPS 测评
     links:
     - title: DigVPS

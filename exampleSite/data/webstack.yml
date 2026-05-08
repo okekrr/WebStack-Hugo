@@ -325,10 +325,6 @@
       logo: www-textures-com.png
       url: https://www.textures.com/
       description: 3D 贴图材质素材。
-    - title: PNGDirs
-      logo: www-pngdirs-com.png
-      url: https://www.pngdirs.com/
-      description: 免抠 PNG 图片素材。
 - taxonomy: 软件下载
   icon: fas fa-download fa-lg
   list:

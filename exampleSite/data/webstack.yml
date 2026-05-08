@@ -326,6 +326,10 @@
       logo: www-duyaoss-com.png
       url: https://www.duyaoss.com/
       description: 机场测速和简介。
+    - title: 默青导航
+      logo: moqingtk-com.png
+      url: https://moqingtk.com/archives/favorites/jing-tai-isp-dai-li/
+      description: 静态ISP代理整理。
   - term: 网站工具
     links:
     - title: UptimeRobot

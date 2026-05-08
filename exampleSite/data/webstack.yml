@@ -76,8 +76,8 @@
       logo: www-aicodemirror-com.png
       url: https://www.aicodemirror.com/dashboard
       description: 中国用户专属 AI 编程助手。
-- taxonomy: 云服务
-  icon: fas fa-cloud fa-lg
+- taxonomy: 网络服务
+  icon: fas fa-network-wired fa-lg
   list:
   - term: 机场
     links:
@@ -139,6 +139,9 @@
       logo: app-dataimpulse-com.png
       url: https://app.dataimpulse.com/
       description: 数据脉冲代理服务。
+- taxonomy: 服务器
+  icon: fas fa-server fa-lg
+  list:
   - term: VPS 服务器
     links:
     - title: WePC
@@ -211,24 +214,6 @@
       logo: moqingtk-com.png
       url: https://moqingtk.com/archives/favorites/jing-tai-isp-dai-li/
       description: 静态ISP代理整理。
-  - term: 网站工具
-    links:
-    - title: UptimeRobot
-      logo: dashboard-uptimerobot-com.png
-      url: https://dashboard.uptimerobot.com/monitors
-      description: 网站监控，检测网站是否正常。
-    - title: Adobe 全家桶
-      logo: adobe-all.png
-      url: https://www.yuque.com/docs/share/5947e43b-0960-45eb-9fe1-99a3d469a78d
-      description: Adobe 软件安装教程。
-    - title: IP 欺诈检测
-      logo: scamalytics-com.png
-      url: https://scamalytics.com/ip
-      description: IP 地址欺诈检测。
-    - title: IPinfo
-      logo: ipinfo-io.png
-      url: https://ipinfo.io/
-      description: IP 数据查询。
 - taxonomy: 加密货币
   icon: fab fa-bitcoin fa-lg
   list:
@@ -286,8 +271,8 @@
       logo: pump-fun.png
       url: https://pump.fun/
       description: Solana 代币发射平台。
-- taxonomy: 影音素材
-  icon: fas fa-film fa-lg
+- taxonomy: 资源素材
+  icon: fas fa-box-open fa-lg
   list:
   - term: 影视资源
     links:
@@ -325,10 +310,7 @@
       logo: www-textures-com.png
       url: https://www.textures.com/
       description: 3D 贴图材质素材。
-- taxonomy: 软件下载
-  icon: fas fa-download fa-lg
-  list:
-  - term: Mac 软件
+  - term: 软件下载
     links:
     - title: XMac
       logo: xmac-app.png
@@ -346,10 +328,28 @@
       logo: download-cnet-com.png
       url: https://download.cnet.com/
       description: 安全软件下载站。
-- taxonomy: 生活工具
-  icon: fas fa-wrench fa-lg
+- taxonomy: 工具箱
+  icon: fas fa-toolbox fa-lg
   list:
-  - term: 路由器
+  - term: 网站工具
+    links:
+    - title: UptimeRobot
+      logo: dashboard-uptimerobot-com.png
+      url: https://dashboard.uptimerobot.com/monitors
+      description: 网站监控，检测网站是否正常。
+    - title: Adobe 全家桶
+      logo: adobe-all.png
+      url: https://www.yuque.com/docs/share/5947e43b-0960-45eb-9fe1-99a3d469a78d
+      description: Adobe 软件安装教程。
+    - title: IP 欺诈检测
+      logo: scamalytics-com.png
+      url: https://scamalytics.com/ip
+      description: IP 地址欺诈检测。
+    - title: IPinfo
+      logo: ipinfo-io.png
+      url: https://ipinfo.io/
+      description: IP 数据查询。
+  - term: 路由器固件
     links:
     - title: 梅林改版
       logo: www-asusgo-com.png
@@ -377,7 +377,7 @@
       logo: mail-okekrr-com.png
       url: https://mail.okekrr.com/
       description: 个人邮箱。
-- taxonomy: 建站运营
+- taxonomy: 建站营销
   icon: fas fa-globe fa-lg
   list:
   - term: 域名主机
@@ -440,52 +440,6 @@
       logo: veryfb-com.png
       url: https://veryfb.com/
       description: Facebook 广告投放社区。
-  - term: 账号服务
-    links:
-    - title: AccsMarket
-      logo: accsmarket-com.png
-      url: https://accsmarket.com/
-      description: 社交媒体账号交易平台。
-    - title: AceAcc
-      logo: aceacc-com.png
-      url: https://aceacc.com/
-      description: 数字账号交易平台。
-    - title: PlayerUp
-      logo: www-playerup-com.png
-      url: https://www.playerup.com/
-      description: 全球数字账号交易平台。
-    - title: Fameswap
-      logo: fameswap-com.png
-      url: https://fameswap.com/
-      description: Instagram 账号购买。
-    - title: edu 邮箱购买
-      logo: edumail-vip.png
-      url: https://edumail.vip/
-      description: edu 教育邮箱申请注册。
-    - title: 淘号么
-      logo: taohao-me.png
-      url: https://taohao.me/
-      description: Google Voice 账号购买平台。
-    - title: 天空发卡
-      logo: zfk-skygv-com.png
-      url: https://zfk.skygv.com/
-      description: GV 永久号购买。
-    - title: USGV
-      logo: fk-usgv-online.png
-      url: https://fk.usgv.online/
-      description: Google Voice 美国实卡。
-    - title: 紫鸟小店
-      logo: faka-533133-xyz.png
-      url: https://faka.533133.xyz/
-      description: GV 号码购买。
-    - title: Bitrefill
-      logo: www-bitrefill-com.png
-      url: https://www.bitrefill.com/
-      description: 加密货币购买礼品卡和话费。
-    - title: USPS 单号管理
-      logo: uspscode-com.png
-      url: https://uspscode.com/
-      description: USPS 物流单号管理系统。
   - term: B2B论坛
     links:
     - title: 外贸精英论坛
@@ -496,3 +450,50 @@
       logo: bbs-globalimporter-net.png
       url: http://bbs.globalimporter.net/
       description: 跨国贸易交流论坛。
+- taxonomy: 账号服务
+  icon: fas fa-user-circle fa-lg
+  links:
+  - title: AccsMarket
+    logo: accsmarket-com.png
+    url: https://accsmarket.com/
+    description: 社交媒体账号交易平台。
+  - title: AceAcc
+    logo: aceacc-com.png
+    url: https://aceacc.com/
+    description: 数字账号交易平台。
+  - title: PlayerUp
+    logo: www-playerup-com.png
+    url: https://www.playerup.com/
+    description: 全球数字账号交易平台。
+  - title: Fameswap
+    logo: fameswap-com.png
+    url: https://fameswap.com/
+    description: Instagram 账号购买。
+  - title: edu 邮箱购买
+    logo: edumail-vip.png
+    url: https://edumail.vip/
+    description: edu 教育邮箱申请注册。
+  - title: 淘号么
+    logo: taohao-me.png
+    url: https://taohao.me/
+    description: Google Voice 账号购买平台。
+  - title: 天空发卡
+    logo: zfk-skygv-com.png
+    url: https://zfk.skygv.com/
+    description: GV 永久号购买。
+  - title: USGV
+    logo: fk-usgv-online.png
+    url: https://fk.usgv.online/
+    description: Google Voice 美国实卡。
+  - title: 紫鸟小店
+    logo: faka-533133-xyz.png
+    url: https://faka.533133.xyz/
+    description: GV 号码购买。
+  - title: Bitrefill
+    logo: www-bitrefill-com.png
+    url: https://www.bitrefill.com/
+    description: 加密货币购买礼品卡和话费。
+  - title: USPS 单号管理
+    logo: uspscode-com.png
+    url: https://uspscode.com/
+    description: USPS 物流单号管理系统。

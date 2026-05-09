@@ -204,6 +204,18 @@
       logo: www-surfercloud-com.png
       url: https://www.surfercloud.com/
       description: 全球云服务商。
+    - title: iPRaft
+      logo: ipraft-com.png
+      url: https://ipraft.com/
+      description: 各国 ISP 线路 VPS，IP 纯净。
+    - title: 跨境VPS
+      logo: www-kjvps-com.png
+      url: https://www.kjvps.com/
+      description: 高防云计算与海外 VPS。
+    - title: Lycheen
+      logo: www-lycheen-com.png
+      url: https://www.lycheen.com/
+      description: 荔枝云，香港日本英国 VPS。
   - term: VPS 测评
     links:
     - title: MeowVPS

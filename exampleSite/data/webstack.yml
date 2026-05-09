@@ -198,6 +198,10 @@
       description: 全球云服务商。
   - term: VPS 测评
     links:
+    - title: MeowVPS
+      logo: meowvps-com.png
+      url: https://meowvps.com/
+      description: 小白向 VPS 科普与测评。
     - title: DigVPS
       logo: digvps-com.png
       url: https://digvps.com/

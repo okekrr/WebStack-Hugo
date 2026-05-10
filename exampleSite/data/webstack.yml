@@ -88,6 +88,10 @@
       logo: www-aicodemirror-com.png
       url: https://www.aicodemirror.com/dashboard
       description: 中国用户专属 AI 编程助手。
+    - title: Linux公益站集合
+      logo: ldoh-105117-xyz.png
+      url: https://ldoh.105117.xyz/
+      description: Linux DO 社区公益 API 合集。
 - taxonomy: 网络服务
   icon: fas fa-network-wired fa-lg
   list:

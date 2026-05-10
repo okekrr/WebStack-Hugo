@@ -48,6 +48,14 @@
       logo: ai-121628-xyz.png
       url: https://ai.121628.xyz/console/playground
       description: AI 公益平台。
+    - title: WindHub
+      logo: windhub-cc.png
+      url: https://windhub.cc/
+      description: 统一大模型接口网关，50+ 模型。
+    - title: Done Hub
+      logo: ai-hybgzs-com.png
+      url: https://ai.hybgzs.com/
+      description: OpenAI 接口聚合管理平台。
     - title: Zhoumo API
       logo: zapi-aicc0-com.png
       url: https://zapi.aicc0.com/console/playground

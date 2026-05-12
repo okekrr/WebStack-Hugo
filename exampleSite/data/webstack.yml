@@ -258,63 +258,6 @@
       logo: moqingtk-com.png
       url: https://moqingtk.com/archives/favorites/jing-tai-isp-dai-li/
       description: 静态ISP代理整理。
-- taxonomy: 加密货币
-  icon: fab fa-bitcoin fa-lg
-  list:
-  - term: 交易所
-    links:
-    - title: 币安
-      logo: www-binance-com.png
-      url: https://www.binance.com/
-      description: 全球最大的加密货币交易所。
-    - title: OKX
-      logo: www-okx-com.png
-      url: https://www.okx.com/
-      description: 欧易交易所。
-    - title: eToro
-      logo: www-etoro-com.png
-      url: https://www.etoro.com/
-      description: 全球社交投资平台。
-    - title: Bitrue
-      logo: www-bitrue-com.png
-      url: https://www.bitrue.com/
-      description: 比特币交易所。
-  - term: 行情数据
-    links:
-    - title: CoinMarketCap
-      logo: coinmarketcap-com.png
-      url: https://coinmarketcap.com/
-      description: 数字货币行情排行。
-    - title: CoinGecko
-      logo: www-coingecko-com.png
-      url: https://www.coingecko.com/
-      description: 加密货币价格走势。
-    - title: 非小号
-      logo: www-feixiaohao-com.png
-      url: https://www.feixiaohao.com/
-      description: 数字货币行情分析。
-    - title: RootData
-      logo: cn-rootdata-com.png
-      url: https://cn.rootdata.com/
-      description: 区块链项目数据。
-    - title: 币安 Alpha
-      logo: alpha123-uk.png
-      url: https://alpha123.uk/
-      description: 币安 Alpha 波动率仪表盘。
-  - term: 链上工具
-    links:
-    - title: DexScreener
-      logo: dexscreener-com.png
-      url: https://dexscreener.com/
-      description: DEX 链上交易数据。
-    - title: GMGN
-      logo: gmgn-ai.png
-      url: https://gmgn.ai/
-      description: Solana 代币监控。
-    - title: Pump
-      logo: pump-fun.png
-      url: https://pump.fun/
-      description: Solana 代币发射平台。
 - taxonomy: 资源素材
   icon: fas fa-box-open fa-lg
   list:
@@ -421,6 +364,63 @@
       logo: mail-okekrr-com.png
       url: https://mail.okekrr.com/
       description: 个人邮箱。
+- taxonomy: 加密货币
+  icon: fab fa-bitcoin fa-lg
+  list:
+  - term: 交易所
+    links:
+    - title: 币安
+      logo: www-binance-com.png
+      url: https://www.binance.com/
+      description: 全球最大的加密货币交易所。
+    - title: OKX
+      logo: www-okx-com.png
+      url: https://www.okx.com/
+      description: 欧易交易所。
+    - title: eToro
+      logo: www-etoro-com.png
+      url: https://www.etoro.com/
+      description: 全球社交投资平台。
+    - title: Bitrue
+      logo: www-bitrue-com.png
+      url: https://www.bitrue.com/
+      description: 比特币交易所。
+  - term: 行情数据
+    links:
+    - title: CoinMarketCap
+      logo: coinmarketcap-com.png
+      url: https://coinmarketcap.com/
+      description: 数字货币行情排行。
+    - title: CoinGecko
+      logo: www-coingecko-com.png
+      url: https://www.coingecko.com/
+      description: 加密货币价格走势。
+    - title: 非小号
+      logo: www-feixiaohao-com.png
+      url: https://www.feixiaohao.com/
+      description: 数字货币行情分析。
+    - title: RootData
+      logo: cn-rootdata-com.png
+      url: https://cn.rootdata.com/
+      description: 区块链项目数据。
+    - title: 币安 Alpha
+      logo: alpha123-uk.png
+      url: https://alpha123.uk/
+      description: 币安 Alpha 波动率仪表盘。
+  - term: 链上工具
+    links:
+    - title: DexScreener
+      logo: dexscreener-com.png
+      url: https://dexscreener.com/
+      description: DEX 链上交易数据。
+    - title: GMGN
+      logo: gmgn-ai.png
+      url: https://gmgn.ai/
+      description: Solana 代币监控。
+    - title: Pump
+      logo: pump-fun.png
+      url: https://pump.fun/
+      description: Solana 代币发射平台。
 - taxonomy: 建站营销
   icon: fas fa-globe fa-lg
   list:
@@ -438,6 +438,10 @@
       logo: query-domains.png
       url: https://query.domains/zh-hans
       description: 免费批量检查域名可用性。
+    - title: DNSHE 免费域名
+      logo: my-dnshe-com.png
+      url: https://my.dnshe.com/
+      description: 免费域名注册服务。
     - title: LeanDomainSearch
       logo: leandomainsearch-com.png
       url: https://leandomainsearch.com/

@@ -549,6 +549,10 @@
     logo: www-bitrefill-com.png
     url: https://www.bitrefill.com/
     description: 加密货币购买礼品卡和话费。
+  - title: Pockyt
+    logo: shop-pockyt-io.png
+    url: https://shop.pockyt.io/
+    description: 加密货币购买礼品卡。
   - title: USPS 单号管理
     logo: uspscode-com.png
     url: https://uspscode.com/

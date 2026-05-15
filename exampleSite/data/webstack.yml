@@ -171,6 +171,10 @@
       logo: www-lumiproxy-com.png
       url: https://www.lumiproxy.com/
       description: 住宅代理服务。
+    - title: LokiProxy
+      logo: lokiproxy-com.png
+      url: http://lokiproxy.com/
+      description: 代理服务。
 - taxonomy: 服务器
   icon: fas fa-server fa-lg
   list:

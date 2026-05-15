@@ -88,6 +88,10 @@
       logo: icoe-pp-ua.png
       url: https://icoe.pp.ua/
       description: AI API 中转服务。
+    - title: LinuxDO Hub
+      logo: hub-linux-do.png
+      url: https://hub.linux.do/
+      description: Linux DO 社区 API 中转导航。
     - title: Elysiver
       logo: www-aiapipk-com.png
       url: https://www.aiapipk.com/

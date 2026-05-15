@@ -167,6 +167,10 @@
       logo: app-dataimpulse-com.png
       url: https://app.dataimpulse.com/
       description: 数据脉冲代理服务。
+    - title: LumiProxy
+      logo: www-lumiproxy-com.png
+      url: https://www.lumiproxy.com/
+      description: 住宅代理服务。
 - taxonomy: 服务器
   icon: fas fa-server fa-lg
   list:
@@ -244,6 +248,18 @@
       logo: www-lycheen-com.png
       url: https://www.lycheen.com/
       description: 荔枝云，香港日本英国 VPS。
+    - title: OuluCloud
+      logo: www-oulucloud-com.png
+      url: https://www.oulucloud.com/
+      description: 全球云服务器。
+    - title: Truxgo
+      logo: truxgo-com.png
+      url: https://truxgo.com/
+      description: 高性能 VPS 服务器。
+    - title: Ultahost
+      logo: ultahost-com.png
+      url: https://ultahost.com/
+      description: 高性价比 VPS 托管服务。
   - term: VPS 测评
     links:
     - title: MeowVPS

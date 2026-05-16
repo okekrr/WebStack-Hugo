@@ -166,11 +166,11 @@
     - title: LumiProxy
       logo: www-lumiproxy-com.png
       url: https://www.lumiproxy.com/
-      description: 住宅代理服务。
+      description: 住宅代理服务。6USD/月 20Mbps
     - title: LokiProxy
       logo: lokiproxy-com.png
       url: http://lokiproxy.com/
-      description: 代理服务。
+      description: 代理服务。3.99USD/月 US10-15Mbps 其他5-10Mbps
 - taxonomy: 服务器
   icon: fas fa-server fa-lg
   list:

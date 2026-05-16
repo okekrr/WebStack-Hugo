@@ -158,7 +158,7 @@
     - title: Cliproxy
       logo: cliproxy-com.png
       url: https://cliproxy.com/zh/
-      description: 快速住宅代理。3.8-6USD 20Mbps
+      description: 3.8-6USD 20Mbps
     - title: DataImpulse
       logo: app-dataimpulse-com.png
       url: https://app.dataimpulse.com/
@@ -166,11 +166,11 @@
     - title: LumiProxy
       logo: www-lumiproxy-com.png
       url: https://www.lumiproxy.com/
-      description: 住宅代理服务。6USD/月 20Mbps
+      description: 6USD/月 20Mbps
     - title: LokiProxy
       logo: lokiproxy-com.png
       url: http://lokiproxy.com/
-      description: 代理服务。3.99USD/月 US10-15Mbps 其他5-10Mbps
+      description: 3.99USD/月 US10-15Mbps 其他5-10Mbps
 - taxonomy: 服务器
   icon: fas fa-server fa-lg
   list:

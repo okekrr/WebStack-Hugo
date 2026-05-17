@@ -469,7 +469,11 @@
     - title: DNSHE 免费域名
       logo: my-dnshe-com.png
       url: https://my.dnshe.com/
-      description: 免费域名注册服务。
+      description: 免费二级域名。
+    - title: 厚浪域名
+      logo: domain-houlang-cloud.png
+      url: https://domain.houlang.cloud/
+      description: 免费二级域名注册。
     - title: LeanDomainSearch
       logo: leandomainsearch-com.png
       url: https://leandomainsearch.com/

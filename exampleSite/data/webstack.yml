@@ -84,10 +84,10 @@
       logo: icoe-pp-ua.png
       url: https://icoe.pp.ua/
       description: AI API 中转服务。
-    - title: LinuxDO Hub
-      logo: hub-linux-do.png
-      url: https://hub.linux.do/
-      description: Linux DO 社区 API 中转导航。
+    - title: 原子流动
+      logo: atomflow-vip.png
+      url: https://atomflow.vip/
+      description: V2ex 论坛推广。
     - title: Elysiver
       logo: www-aiapipk-com.png
       url: https://www.aiapipk.com/
@@ -386,6 +386,12 @@
       logo: www-x9pc-com.png
       url: http://www.x9pc.com/firmware/boot/a01/
       description: Breed 下刷固件教程。
+  - term: 固件下载
+    links:
+    - title: IPSW
+      logo: ipsw-me.png
+      url: https://ipsw.me/
+      description: 苹果 iOS 固件下载。
   - term: 通讯工具
     links:
     - title: LINUX DO Mail

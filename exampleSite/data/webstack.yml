@@ -364,6 +364,10 @@
       logo: ipinfo-io.png
       url: https://ipinfo.io/
       description: IP 数据查询。
+    - title: IP 评分
+      logo: ip-net-coffee.png
+      url: https://ip.net.coffee/
+      description: IP 评分。
   - term: 路由器固件
     links:
     - title: 梅林改版

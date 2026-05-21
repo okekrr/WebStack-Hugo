@@ -392,6 +392,28 @@
       logo: ipsw-me.png
       url: https://ipsw.me/
       description: 苹果 iOS 固件下载。
+  - term: 技术社区
+    links:
+    - title: Linux DO
+      logo: linux-do.png
+      url: https://linux.do/
+      description: Linux DO 技术社区。
+    - title: NodeSeek
+      logo: www-nodeseek-com.png
+      url: https://www.nodeseek.com/
+      description: VPS 服务器交流社区。
+    - title: V2EX
+      logo: www-v2ex-com.png
+      url: https://www.v2ex.com/
+      description: 创意工作者社区。
+    - title: NodeLoc
+      logo: www-nodeloc-com.png
+      url: https://www.nodeloc.com/
+      description: 服务器测评交流社区。
+    - title: IDCFlare
+      logo: idcflare-com.png
+      url: https://idcflare.com/
+      description: IDC 主机交流社区。
   - term: 通讯工具
     links:
     - title: LINUX DO Mail

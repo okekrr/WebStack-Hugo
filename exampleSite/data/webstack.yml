@@ -46,7 +46,7 @@
     links:
     - title: 霸气公益
       logo: ai-121628-xyz.png
-      url: https://ai.121628.xyz/console/playground
+      url: https://ai.121628.xyz/console/personal
       description: AI 公益平台。
     - title: Ark API
       logo: windhub-cc.png
@@ -58,7 +58,7 @@
       description: OpenAI 接口聚合管理平台。
     - title: CHY公益站
       logo: api-xn--chy-js0fk50c-top.png
-      url: https://chybenzun.top/
+      url: https://chybenzun.top/profile
       description: 本尊
     - title: abrdns
       logo: new-api-abrdns-com.png
@@ -66,7 +66,7 @@
       description: AI API 中转管理。
     - title: 君の公益
       logo: muyuan-do.png
-      url: https://muyuan.do/pricing
+      url: https://muyuan.do/console/personal
       description: AI 公益中转服务。
     - title: Speak Codes
       logo: speak-codes.png

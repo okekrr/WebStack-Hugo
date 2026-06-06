@@ -624,64 +624,76 @@
       description: 跨国贸易交流论坛。
 - taxonomy: 账号服务
   icon: fas fa-user-circle fa-lg
-  links:
-  - title: AccsMarket
-    logo: accsmarket-com.png
-    url: https://accsmarket.com/
-    description: 社交媒体账号交易平台。
-  - title: 小火箭共享ID
-    logo: id-ruyie-de.png
-    url: https://id.ruyie.de/
-    description: 共享美区 Shadowrocket Apple ID。
-  - title: AceAcc
-    logo: aceacc-com.png
-    url: https://aceacc.com/
-    description: 数字账号交易平台。
-  - title: PlayerUp
-    logo: www-playerup-com.png
-    url: https://www.playerup.com/
-    description: 全球数字账号交易平台。
-  - title: Fameswap
-    logo: fameswap-com.png
-    url: https://fameswap.com/
-    description: Instagram 账号购买。
-  - title: edu 邮箱购买
-    logo: edumail-vip.png
-    url: https://edumail.vip/
-    description: edu 教育邮箱申请注册。
-  - title: 淘号么
-    logo: taohao-me.png
-    url: https://taohao.me/
-    description: Google Voice 账号购买平台。
-  - title: 天空发卡
-    logo: zfk-skygv-com.png
-    url: https://zfk.skygv.com/
-    description: GV 永久号购买。
-  - title: USGV
-    logo: fk-usgv-online.png
-    url: https://fk.usgv.online/
-    description: Google Voice 美国实卡。
-  - title: GmailBuy
-    logo: gmailbuy-com.png
-    url: https://gmailbuy.com/
-    description: Gmail 账号购买。
-  - title: 3Sun
-    logo: 3sun-cc.png
-    url: https://3sun.cc/
-    description: 发卡网站对标。
-  - title: 紫鸟小店
-    logo: faka-533133-xyz.png
-    url: https://faka.533133.xyz/
-    description: GV 号码购买。
-  - title: Bitrefill
-    logo: www-bitrefill-com.png
-    url: https://www.bitrefill.com/
-    description: 加密货币购买礼品卡和话费。
-  - title: Pockyt
-    logo: shop-pockyt-io.png
-    url: https://shop.pockyt.io/
-    description: 加密货币购买礼品卡。
-  - title: USPS 单号管理
-    logo: uspscode-com.png
-    url: https://uspscode.com/
-    description: USPS 物流单号管理系统。
+  list:
+  - term: 虚拟卡工具
+    links:
+    - title: NamsoGen
+      logo: namso-gen-com.png
+      url: https://namso-gen.com/
+      description: 虚拟信用卡号生成器。
+    - title: Chkr
+      logo: chkr-cc.png
+      url: https://chkr.cc/
+      description: 信用卡号验证器。
+  - term: 账号交易
+    links:
+    - title: AccsMarket
+      logo: accsmarket-com.png
+      url: https://accsmarket.com/
+      description: 社交媒体账号交易平台。
+    - title: 小火箭共享ID
+      logo: id-ruyie-de.png
+      url: https://id.ruyie.de/
+      description: 共享美区 Shadowrocket Apple ID。
+    - title: AceAcc
+      logo: aceacc-com.png
+      url: https://aceacc.com/
+      description: 数字账号交易平台。
+    - title: PlayerUp
+      logo: www-playerup-com.png
+      url: https://www.playerup.com/
+      description: 全球数字账号交易平台。
+    - title: Fameswap
+      logo: fameswap-com.png
+      url: https://fameswap.com/
+      description: Instagram 账号购买。
+    - title: edu 邮箱购买
+      logo: edumail-vip.png
+      url: https://edumail.vip/
+      description: edu 教育邮箱申请注册。
+    - title: 淘号么
+      logo: taohao-me.png
+      url: https://taohao.me/
+      description: Google Voice 账号购买平台。
+    - title: 天空发卡
+      logo: zfk-skygv-com.png
+      url: https://zfk.skygv.com/
+      description: GV 永久号购买。
+    - title: USGV
+      logo: fk-usgv-online.png
+      url: https://fk.usgv.online/
+      description: Google Voice 美国实卡。
+    - title: GmailBuy
+      logo: gmailbuy-com.png
+      url: https://gmailbuy.com/
+      description: Gmail 账号购买。
+    - title: 3Sun
+      logo: 3sun-cc.png
+      url: https://3sun.cc/
+      description: 发卡网站对标。
+    - title: 紫鸟小店
+      logo: faka-533133-xyz.png
+      url: https://faka.533133.xyz/
+      description: GV 号码购买。
+    - title: Bitrefill
+      logo: www-bitrefill-com.png
+      url: https://www.bitrefill.com/
+      description: 加密货币购买礼品卡和话费。
+    - title: Pockyt
+      logo: shop-pockyt-io.png
+      url: https://shop.pockyt.io/
+      description: 加密货币购买礼品卡。
+    - title: USPS 单号管理
+      logo: uspscode-com.png
+      url: https://uspscode.com/
+      description: USPS 物流单号管理系统。

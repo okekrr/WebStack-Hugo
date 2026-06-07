@@ -622,6 +622,10 @@
       logo: bbs-globalimporter-net.png
       url: http://bbs.globalimporter.net/
       description: 跨国贸易交流论坛。
+    - title: 美卡论坛
+      logo: www-uscardforum-com.png
+      url: https://www.uscardforum.com/
+      description: 美国信用卡交流论坛。
 - taxonomy: 账号服务
   icon: fas fa-user-circle fa-lg
   list:

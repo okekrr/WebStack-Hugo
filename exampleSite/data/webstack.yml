@@ -480,6 +480,10 @@
       logo: mail-okekrr-com.png
       url: https://mail.okekrr.com/
       description: 个人邮箱。
+    - title: Noah 教育邮箱
+      logo: mail-noah-edu-gr.png
+      url: https://mail.noah.edu.gr/
+      description: 免费教育邮箱。
 - taxonomy: 加密货币
   icon: fab fa-bitcoin fa-lg
   list:

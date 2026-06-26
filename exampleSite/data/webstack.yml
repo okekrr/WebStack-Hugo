@@ -391,6 +391,10 @@
       logo: appstorrent-ru.png
       url: https://appstorrent.ru/
       description: macOS 游戏和程序下载。
+    - title: RG-Adguard
+      logo: files-rg-adguard-net.svg
+      url: https://files.rg-adguard.net/
+      description: Windows系统下载。
     - title: FileCR
       logo: filecr-com.png
       url: https://filecr.com/

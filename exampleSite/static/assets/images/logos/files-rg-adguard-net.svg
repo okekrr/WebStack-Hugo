@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="RG-Adguard">
+  <rect width="128" height="128" rx="24" fill="#0f766e"/>
+  <path d="M28 30h31v31H28V30Zm41 0h31v31H69V30ZM28 70h31v31H28V70Zm41 0h31v31H69V70Z" fill="#ffffff" opacity=".95"/>
+  <path d="M24 24h80v80H24V24Z" fill="none" stroke="#99f6e4" stroke-width="6" stroke-linejoin="round"/>
+  <text x="64" y="116" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#ccfbf1">RG</text>
+</svg>

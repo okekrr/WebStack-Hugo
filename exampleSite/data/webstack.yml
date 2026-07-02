@@ -219,6 +219,10 @@
       logo: lokiproxy-com.png
       url: http://lokiproxy.com/
       description: 3.99USD/月 US10-15Mbps 其他5-10Mbps
+    - title: rooto.cc
+      logo: rooto-cc.png
+      url: https://rooto.cc/
+      description: 巴西60元/月 200Mbps
 - taxonomy: 服务器
   icon: fas fa-server fa-lg
   list:

@@ -108,14 +108,6 @@
       logo: zapi-aicc0-com.png
       url: https://zapi.aicc0.com/register
       description: AI API 中转服务。
-    - title: 快爱AI
-      logo: www-kuaiaiapi-com.png
-      url: https://www.kuaiaiapi.com/register
-      description: AI API 中转服务。
-    - title: Axis Yoga
-      logo: axis-yoga.png
-      url: https://axis.yoga/register
-      description: AI API 中转服务。
     - title: HostCentral
       logo: api-hostcentral-cc.png
       url: https://api.hostcentral.cc/register

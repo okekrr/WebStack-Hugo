@@ -44,10 +44,6 @@
       description: Google AI 笔记研究工具。
   - term: API 中转
     links:
-    - title: 霸气公益
-      logo: ai-121628-xyz.png
-      url: https://ai.121628.xyz/console/personal
-      description: AI 公益平台。
     - title: 7x.hk
       logo: 7x-hk.png
       url: https://7x.hk/profile
@@ -232,6 +228,10 @@
   list:
   - term: VPS 服务器
     links:
+    - title: 独角鲸云
+      logo: dash-fuckip-me.png
+      url: https://dash.fuckip.me/
+      description: 低价 VPS。
     - title: WePC
       logo: wepc-au.png
       url: https://wepc.au/

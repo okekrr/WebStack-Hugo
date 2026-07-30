@@ -44,10 +44,6 @@
       description: Google AI 笔记研究工具。
   - term: API 中转
     links:
-    - title: 7x.hk
-      logo: 7x-hk.png
-      url: https://7x.hk/profile
-      description: codex K12。
     - title: Ark API
       logo: windhub-cc.png
       url: https://windhub.cc/
@@ -96,10 +92,6 @@
       logo: atomflow-vip.png
       url: https://atomflow.vip/
       description: V2ex 论坛推广。
-    - title: FreeModel
-      logo: freemodel-dev.png
-      url: https://freemodel.dev/
-      description: 免费AI模型中转。
     - title: Code Relay
       logo: api-code-relay-com.png
       url: https://api.code-relay.com/register
@@ -127,14 +119,6 @@
     - title: HostCentral
       logo: api-hostcentral-cc.png
       url: https://api.hostcentral.cc/register
-      description: AI API 中转服务。
-    - title: 123887766
-      logo: 123887766-xyz.png
-      url: https://123887766.xyz/register
-      description: AI API 中转服务。
-    - title: ZZ1CC
-      logo: zz1cc-cc-cd.png
-      url: https://zz1cc.cc.cd/register
       description: AI API 中转服务。
     - title: 中转站竞技场 - 性价比可用性对比
       logo: www-aiapipk-com.png

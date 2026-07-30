@@ -88,22 +88,6 @@
       logo: icoe-pp-ua.png
       url: https://icoe.pp.ua/
       description: AI API 中转服务。
-    - title: 原子流动
-      logo: atomflow-vip.png
-      url: https://atomflow.vip/
-      description: V2ex 论坛推广。
-    - title: Code Relay
-      logo: api-code-relay-com.png
-      url: https://api.code-relay.com/register
-      description: AI API 中转服务。
-    - title: AiAPI
-      logo: aiapi1-cc-cd.png
-      url: https://aiapi1.cc.cd/register
-      description: AI API 中转服务。
-    - title: Ave Mujica
-      logo: api-avemujica-moe.png
-      url: https://api.avemujica.moe/sign-up
-      description: AI API 中转服务。
     - title: Zhoumo API
       logo: zapi-aicc0-com.png
       url: https://zapi.aicc0.com/register

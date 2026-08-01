@@ -147,6 +147,14 @@
       description: 三分云机场。
   - term: 代理 IP
     links:
+    - title: Uzuma
+      logo: next-dash-uzuma-ru.png
+      url: https://next-dash.uzuma.ru/
+      description: 低价家宽 VPS，需中转。
+    - title: rooto.cc
+      logo: rooto-cc.png
+      url: https://rooto.cc/
+      description: 巴西60元/月 200Mbps
     - title: Oxylabs
       logo: dashboard-oxylabs-io.png
       url: https://dashboard.oxylabs.io/
@@ -171,10 +179,6 @@
       logo: lokiproxy-com.png
       url: http://lokiproxy.com/
       description: 3.99USD/月 US10-15Mbps 其他5-10Mbps
-    - title: rooto.cc
-      logo: rooto-cc.png
-      url: https://rooto.cc/
-      description: 巴西60元/月 200Mbps
 - taxonomy: 服务器
   icon: fas fa-server fa-lg
   list:

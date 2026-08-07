@@ -105,10 +105,6 @@
   list:
   - term: 机场
     links:
-    - title: 飓风Cloud
-      logo: www-hurricanerelay-net.png
-      url: https://www.hurricanerelay.net/
-      description: 飓风云。
     - title: 极速机场
       logo: xn--mes358acgm99l-com.png
       url: https://xn--mes358acgm99l.com/
@@ -184,14 +180,22 @@
   list:
   - term: VPS 服务器
     links:
-    - title: 独角鲸云
-      logo: dash-fuckip-me.png
-      url: https://dash.fuckip.me/
-      description: 低价 VPS。
+    - title: NovixLink
+      logo: novixlink-com.png
+      url: https://novixlink.com/
+      description: 美国双ISP原生住宅IP VPS。
     - title: WePC
       logo: wepc-au.png
       url: https://wepc.au/
       description: TikTok 专线 VPS。
+    - title: ACEBGP
+      logo: www-acebgp-com.png
+      url: https://www.acebgp.com/
+      description: 全球原生IP VPS，CN2 GIA/9929/CMIN2。
+    - title: 独角鲸云
+      logo: dash-fuckip-me.png
+      url: https://dash.fuckip.me/
+      description: 低价 VPS。
     - title: Dedirock
       logo: billing-dedirock-com.png
       url: https://billing.dedirock.com/
@@ -200,14 +204,6 @@
       logo: console-evoxt-com.png
       url: https://console.evoxt.com/
       description: 全球云服务器部署。
-    - title: NovixLink
-      logo: novixlink-com.png
-      url: https://novixlink.com/
-      description: 美国双ISP原生住宅IP VPS。
-    - title: ACEBGP
-      logo: www-acebgp-com.png
-      url: https://www.acebgp.com/
-      description: 全球原生IP VPS，CN2 GIA/9929/CMIN2。
     - title: AndNode
       logo: cloud-andnode-com.png
       url: https://cloud.andnode.com/

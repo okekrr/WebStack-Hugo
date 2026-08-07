@@ -204,6 +204,10 @@
       logo: novixlink-com.png
       url: https://novixlink.com/
       description: 美国双ISP原生住宅IP VPS。
+    - title: ACEBGP
+      logo: www-acebgp-com.png
+      url: https://www.acebgp.com/
+      description: 全球原生IP VPS，CN2 GIA/9929/CMIN2。
     - title: AndNode
       logo: cloud-andnode-com.png
       url: https://cloud.andnode.com/

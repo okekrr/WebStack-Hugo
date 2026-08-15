@@ -282,6 +282,10 @@
       description: 高性价比 VPS 托管服务。
   - term: VPS 测评
     links:
+    - title: VPSium
+      logo: vpsium-com.png
+      url: https://vpsium.com/zh-CN/
+      description: VPS 筛选汇总，按配置/地区比价。
     - title: MeowVPS
       logo: meowvps-com.png
       url: https://meowvps.com/

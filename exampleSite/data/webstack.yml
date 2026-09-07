@@ -375,6 +375,10 @@
       logo: download-cnet-com.png
       url: https://download.cnet.com/
       description: 安全软件下载站。
+    - title: AndroidAPKs
+      logo: androidapks-com.png
+      url: https://androidapks.com/
+      description: 安卓 APK 下载。
 - taxonomy: 工具箱
   icon: fas fa-toolbox fa-lg
   list:

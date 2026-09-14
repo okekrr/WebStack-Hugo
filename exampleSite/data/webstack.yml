@@ -627,6 +627,10 @@
       logo: chkr-cc.png
       url: https://chkr.cc/
       description: 信用卡号验证器。
+    - title: AddrProof
+      logo: www-addrproof-vip.png
+      url: https://www.addrproof.vip/
+      description: 地址证明与示例文档生成。
   - term: 账号交易
     links:
     - title: 特懒蒲
